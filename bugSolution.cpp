@@ -1,0 +1,1 @@
+int main() { int x = 10; int *ptr = &x; // delete ptr; // Removed incorrect delete statement return 0; }
